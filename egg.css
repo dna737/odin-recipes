@@ -1,5 +1,19 @@
 *{
     text-align: center;
     background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+h1, h2{
+    text-decoration:underline;
+}
+
+.list, .paragraphs{
+    font-size: 22px;
+}
+
+ol li{
+    text-align:justify;
+}
+
 
